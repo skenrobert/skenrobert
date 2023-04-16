@@ -6,13 +6,15 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/skenrobert?style=social)](https://github.com/skenrobert)
 
-## Sobre mi
-
-- 📲 Mobile developer
-- 🎥 
+## About me
+- 💻 API-restful developer in framework as laravel(php), django(python), django rest(python), fastapi (python), springboot(java)
+- 📲 Mobile developer (kotlin)
+- 👨🏾‍💻 front developer in framework as angular, tscript, jscript, jquery, html, css.
+- 🔄️ Configuration of pfsense, proxy, firewall
+- ✅ Administration of Owncloud, Osticket, squid, PROMOX environments on the server
 <br>
 
-
+knowledge in other languages such as C#, C++, DEVC, Node, .net.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
