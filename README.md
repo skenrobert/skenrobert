@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/skenrobert?style=social)](https://github.com/skenrobert)
 
 ## About me
-- 💻 API-restful developer in framework as laravel(php), django(python), django rest(python), fastapi (python), springboot(java)
+- 💻 API-restful developer in framework as laravel(php), django(python), django rest(python), fastapi (python), spring boot(java)
 - 📲 Mobile developer (kotlin)
 - 👨🏾‍💻 front developer in framework as angular, tscript, jscript, jquery, html, css.
 - 🔄️ Configuration of pfsense, proxy, firewall
