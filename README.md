@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/skenrobert?style=social)](https://github.com/skenrobert)
 [![Twitter followers](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/Kenny_Robert)
-[![Linkedin followers](https://img.shields.io/badge/devops-linkedin-yellowgreen)](https://www.linkedin.com/in/kenny-robert-mora/)
+[![Linkedin followers](https://img.shields.io/badge/devops-linkedin-blue)](https://www.linkedin.com/in/kenny-robert-mora/)
 
 
 ## About me
