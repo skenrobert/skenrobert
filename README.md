@@ -1,8 +1,6 @@
 <div align="center">
 <h1 align="center">Hi I am Kenny Robert 👋</h1>
 </div>
-<img src="https://www.canva.com/design/DAFg7X0Smuo/IMAQfJ3UsFY94zs5-4Bkew/view?utm_content=DAFg7X0Smuo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-
 ![2](https://user-images.githubusercontent.com/21204983/233859276-451ed052-f140-4d50-82db-25b9c5bba48f.png)
 
 
