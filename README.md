@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi I am Kenny Robert 👋</h1>
 </div>
-<img src="">
+<img src="https://www.canva.com/design/DAFg7X0Smuo/IMAQfJ3UsFY94zs5-4Bkew/view?utm_content=DAFg7X0Smuo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 
 [![GitHub followers](https://img.shields.io/github/followers/skenrobert?style=social)](https://github.com/skenrobert)
