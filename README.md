@@ -2,8 +2,7 @@
 <h1 align="center">Hi I am Kenny Robert 👋</h1>
 </div>
 
-![devops](https://user-images.githubusercontent.com/21204983/233859596-3b14b2bd-0d64-4f1f-835d-c865e8618b88.png)
-
+![devops (1)](https://user-images.githubusercontent.com/21204983/233859758-6ee81432-8057-4a5d-8703-fbf15b8d5f3b.png)
 
 
 
