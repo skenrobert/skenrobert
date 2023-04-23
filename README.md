@@ -12,12 +12,12 @@
 ## About me
 - 💻 API-restful developer in framework as laravel(php), django(python), django rest(python), fastapi (python), spring boot(java)
 - 📲 Mobile developer (kotlin)
-- 👨🏾‍💻 front developer in framework as angular, tscript, jscript, jquery, html, css.
+- 👨🏾‍💻 front developer in framework as angular, react.
 - 🔄️ Configuration of pfsense, proxy, firewall
 - ✅ Administration of Owncloud, Osticket, squid, PROMOX environments on the server
 <br>
 
-knowledge in other languages such as C#, C++, DEVC, Node, .net.
+knowledge in other languages such as C#, C++, DEVC, Node, .net, tscript, jscript, jquery, html, css.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
