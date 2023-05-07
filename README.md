@@ -19,7 +19,7 @@
 - ✅ Administration of Owncloud, Osticket, squid, PROMOX environments on the server
 <br>
 
-knowledge in other languages such as C#, C++, DEVC, Node, .net, tscript, jscript, jquery, html, css.
+knowledge in other languages such as C#, C++, DEVC, Node, phyton, .net, tscript, jscript, jquery, html, css.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
