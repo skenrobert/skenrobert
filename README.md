@@ -24,9 +24,9 @@ knowledge in other languages such as C#, C++, DEVC, Node, phyton, .net, tscript,
 
 ## Portafolio:
 
-**React **(nextjs):
-   [![deploy website](https://img.shields.io/badge/website-nextjs-blue?style=plastic&logo=react)](https://firstnextjs-coral.vercel.app/)
-   [![code](https://img.shields.io/badge/code-nextjs-blue?style=plastic&logo=react)](https://github.com/skenrobert/firstnextjs)
+**React** **(nextjs):**
+   [![deploy website](https://img.shields.io/badge/website-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://firstnextjs-coral.vercel.app/)
+   [![code](https://img.shields.io/badge/code-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://github.com/skenrobert/firstnextjs)
  
   
 <br>
