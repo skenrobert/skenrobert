@@ -26,6 +26,8 @@ Portafolio:
 1) React (nextjs):
   1.1)    deploy website: https://firstnextjs-coral.vercel.app/
   1.2)    code: https://github.com/skenrobert/firstnextjs
+  
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
