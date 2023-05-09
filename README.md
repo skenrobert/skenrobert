@@ -25,8 +25,8 @@ knowledge in other languages such as C#, C++, DEVC, Node, phyton, .net, tscript,
 ## Portafolio:
 
 1) React (nextjs).
-- deploy website: https://firstnextjs-coral.vercel.app/
-- code: https://github.com/skenrobert/firstnextjs
+  * deploy website: [firstnextjs-coral.vercel.app](https://firstnextjs-coral.vercel.app/)
+  * code: [skenrobert/firstnextjs](https://github.com/skenrobert/firstnextjs)
   
 <br>
 
