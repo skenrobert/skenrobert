@@ -29,8 +29,8 @@ knowledge in other languages such as C#, C++, DEVC, Node, phyton, .net, tscript,
    [![code](https://img.shields.io/badge/code-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://github.com/skenrobert/firstnextjs)
  
  **Python** **[FastApi](https://fastapi.tiangolo.com/es/)**
-  
-     [![deploy Api](https://img.shields.io/badge/Backend-fastapi-succes?style=plastic)](https://j8h2ff.deta.dev/docs#/)
+     [![deploy Api](https://img.shields.io/badge/Backend-fastapi-succes?style=plasti)](https://j8h2ff.deta.dev/docs#/)
+     
      
 <br>
 
