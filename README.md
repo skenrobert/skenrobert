@@ -30,8 +30,7 @@ knowledge in other languages such as C#, C++, DEVC, Node, phyton, .net, tscript,
  
  **Python** **[FastApi](https://fastapi.tiangolo.com/es/):**
      [![deploy Api](https://img.shields.io/badge/Backend-fastapi-succes?style=plasti)](https://j8h2ff.deta.dev/docs#/)
-     
-     note: behind api is document with swagger, test api User: xxxx and password: xxxx
+     *note: behind api is document with swagger, test api User: xxxx and password: xxxx
      
      
 <br>
