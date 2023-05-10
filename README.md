@@ -30,7 +30,7 @@ knowledge in other languages such as C#, C++, DEVC, Node, phyton, .net, tscript,
  
  **Python** **[FastApi](https://fastapi.tiangolo.com/es/)**
   
-     [![deploy Api](https://img.shields.io/badge/fastapi-python-blueviolet?style=plastic&logo=python.svg)](https://j8h2ff.deta.dev/docs#/)
+     [![deploy Api](https://img.shields.io/badge/Backend-fastapi-succes?style=plastic)](https://j8h2ff.deta.dev/docs#/)
      
 <br>
 
