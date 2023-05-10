@@ -31,7 +31,8 @@ knowledge in other languages such as C#, C++, DEVC, Node, phyton, .net, tscript,
  **Python** **[FastApi](https://fastapi.tiangolo.com/es/):**
      [![deploy Api](https://img.shields.io/badge/backend-fastapi-succes?style=plasti&logo=python)](https://j8h2ff.deta.dev/docs#/)
      [![code](https://img.shields.io/badge/code-fastapi-succes?style=plasti&logo=python)](https://github.com/skenrobert/fastapitest)
-*note: behind api is document with swagger, test api 
+     <br>
+*note: behind api is document with swagger, test api* 
 Username: robert
 Password: 123456
      
