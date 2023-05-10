@@ -24,11 +24,14 @@ knowledge in other languages such as C#, C++, DEVC, Node, phyton, .net, tscript,
 
 ## Portafolio:
 
-**React** **(nextjs):**
+**React** **[nextjs](https://nextjs.org/docs/getting-started/installation):**
    [![deploy website](https://img.shields.io/badge/website-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://firstnextjs-coral.vercel.app/)
    [![code](https://img.shields.io/badge/code-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://github.com/skenrobert/firstnextjs)
  
+ **Python** **[FastApi](https://fastapi.tiangolo.com/es/)**
   
+     [![deploy Api](https://img.shields.io/badge/fastapi-python-blueviolet?style=plastic&logo=python.svg)](https://j8h2ff.deta.dev/docs#/)
+     
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
