@@ -30,7 +30,7 @@ knowledge in other languages such as C#, C++, DEVC, Node, phyton, .net, tscript,
 
 **React** **[Vite + Tailwind](https://vitejs.dev/guide/):**
    [![deploy website](https://img.shields.io/badge/website-viteReact-blue?style=plastic&logo=nodedotjs)](https://skenrobert.github.io/vite-react-task/)
-   [![code](https://img.shields.io/badge/code-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://github.com/skenrobert/firstnextjs)
+   [![code](https://img.shields.io/badge/code-viteReact-blue?style=plastic&logo=nodedotjs)](https://github.com/skenrobert/vite-react-task)
 
 
 
