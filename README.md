@@ -29,7 +29,7 @@ knowledge in other languages such as C#, C++, DEVC, Node, phyton, .net, tscript,
    [![code](https://img.shields.io/badge/code-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://github.com/skenrobert/firstnextjs)
 
 **React** **[Vite + Tailwind](https://vitejs.dev/guide/):**
-   [![deploy website](https://skenrobert.github.io/vite-react-task?style=plastic&logo=nodedotjs)](https://firstnextjs-coral.vercel.app/)
+   [![deploy website](https://img.shields.io/badge/website-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://skenrobert.github.io/vite-react-task/)
    [![code](https://img.shields.io/badge/code-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://github.com/skenrobert/firstnextjs)
 
 
