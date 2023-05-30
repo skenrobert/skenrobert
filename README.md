@@ -27,6 +27,10 @@ knowledge in other languages such as C#, C++, DEVC, Node, phyton, .net, tscript,
 **React** **[nextjs](https://nextjs.org/docs/getting-started/installation):**
    [![deploy website](https://img.shields.io/badge/website-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://firstnextjs-coral.vercel.app/)
    [![code](https://img.shields.io/badge/code-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://github.com/skenrobert/firstnextjs)
+   
+ **React Redux fetchBaseQuery** **[nextjs](https://nextjs.org/docs/getting-started/installation):**
+   [![deploy website](https://img.shields.io/badge/website-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://nextjs-redux-one.vercel.app/)
+   [![code](https://img.shields.io/badge/code-nextjs-blueviolet?style=plastic&logo=nodedotjs)](https://github.com/skenrobert/nextjs-redux)
 
 **React** **[Vite + Tailwind](https://vitejs.dev/guide/):**
    [![deploy website](https://img.shields.io/badge/website-viteReact-blue?style=plastic&logo=nodedotjs)](https://skenrobert.github.io/vite-react-task/)
