@@ -55,9 +55,12 @@ Password: 123456*
    [![deploy android](https://img.shields.io/badge/Android+QR-scanner-orange?style=plastic&logo=android)]()
    
 
+
+
    Scan the following QR code with an iOS device to open it in Expo Go or a development build.
    [![deploy_iOS](https://img.shields.io/badge/iOS+QR-scanner-orange?style=plastic&logo=apple)]()
-   
+
+![ios-expo](https://github.com/skenrobert/skenrobert/assets/21204983/e62f9cd9-afff-4a33-a338-3cae479730f9)
 
    
 
