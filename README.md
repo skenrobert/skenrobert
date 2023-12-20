@@ -50,9 +50,14 @@ Password: 123456*
 
 **React-native** **[Android + Expo or iOS + Expo](https://docs.expo.dev/router/installation/):**
    [![code](https://img.shields.io/badge/code-reactNative-orange?logo=react&logoColor=orange)](https://github.com/skenrobert/build-deploy-reactnative)
-  
-   [![code](https://img.shields.io/badge/iOS+QR-scanner-orange?style=plastic&logo=apple)]()
-   [![deploy website](https://img.shields.io/badge/Android+QR-scanner-orange?style=plastic&logo=android)]()
+
+  Scan the following QR code with an Android device to open it in Expo Go or a development build.
+   [![deploy android](https://img.shields.io/badge/Android+QR-scanner-orange?style=plastic&logo=android)]()
+   
+
+     Scan the following QR code with an iOS device to open it in Expo Go or a development build.
+   [![deploy_iOS](https://img.shields.io/badge/iOS+QR-scanner-orange?style=plastic&logo=apple)]()
+   
 
    
 
